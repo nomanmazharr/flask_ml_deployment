@@ -1,0 +1,6 @@
+dataset/
+*.csv
+*.ipynb
+*.log
+model_deploymentment/
+.devcontainer/
